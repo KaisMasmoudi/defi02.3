@@ -1,0 +1,4 @@
+#Sun Dec 08 14:50:13 GMT+01:00 2019
+base.0=C\:\\Users\\Kais Masmoudi\\Desktop\\rci\\android\\android-fundamentals-exycodelabs-master\\android-fundamentals-exycodelabs-master\\ImplicitIntents\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
